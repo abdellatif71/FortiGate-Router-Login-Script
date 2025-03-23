@@ -10,8 +10,8 @@ headers = {
 
 url = 'http://192.168.1.1/logincheck'
 data = {
-    'username': 'admin',  # Ersetze mit den echten Daten
-    'password': ''        # Leer, falls Default
+    'username': 'admin',  
+    'password': ''        
 }
 
 try:
