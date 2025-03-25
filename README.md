@@ -1,4 +1,4 @@
-FortiGate Router Login Script
+
 
 This script attempts to log in to a FortiGate router or web-based device located at 192.168.1.1 by sending a POST request to the /logincheck endpoint.
 
